@@ -17,7 +17,7 @@ import asyncio
 
 #   EDITABLE THINGS ↓
 
-bottoken = "MTExNjMxMjUyMzI1NjM4MTUzMg.GbVAPL.ZgFMb9xlA4MnFiWBzRRIOSEI4Gy_cVQo-Npgd8"
+bottoken = "тут ваш токен"
 
 defaultembedcolor = disnake.Colour.green()
 
