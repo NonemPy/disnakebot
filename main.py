@@ -419,8 +419,8 @@ async def on_command_error(self, inter, error):
 @Bot.slash_command(name="credit", description="Credits of the bot")
 async def credit(inter):
     embed = disnake.Embed (
-        title="FQQDs Moderation Bot - Credits",
-        description=f'Bot coded by FQQD#2557\nGithub: https://github.com/FQQD/simple-moderation-bot/\nhttps://www.FQQD.de',
+        title="Nonem Moderation Bot - Credits",
+        description=f'Bot coded by NonemPy#0001\nhttps://github.com/NonemPy/disnakebot/edit/main/main.py',
         colour = defaultembedcolor
     )  
     await inter.send(embed=embed) 
